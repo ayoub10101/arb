@@ -1,0 +1,753 @@
+[ 
+    {
+        "country": "afriquedusud",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "algerie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "allemagne",
+        "un_tours": [
+            [
+                "Berlin Liga",
+                "Verbandsliga",
+                "Landesliga - not both !!",
+                "Bundesliga feminine",
+                "Bundesliga (F)",
+                "Regionalliga Nord"
+                "Ligue Regionale Nord"
+            ],
+            [
+                "Bundesliga",
+            ]
+        ]
+    },
+    {
+        "country": "andorre",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "angleterre",
+        "un_tours": [
+            [
+                "National League South - not both !!",
+                "Premier League W - not both !!",
+                "FA Women's Cup - not both !!",
+                "National League North - not both !!",
+                "National League"
+            ],
+            [
+                "Premier League",
+                "FA Cup",
+                "FA WSL Continental Cup - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "argentine",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "armenie",
+        "un_tours": [
+            [
+                "Premier League - not both !!"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "australie",
+        "un_tours": [
+            [],
+            [
+                "A-League"
+            ]
+        ]
+    },
+    {
+        "country": "autriche",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "azerbaidjan",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "bahrein",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "belgique",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "bhutan",
+        "un_tours": []
+    },
+    {
+        "country": "bielorussie",
+        "un_tours": [
+            [
+                "Leopardstown"
+            ],
+            [
+                "Coupe de Bielorussie"
+            ]
+        ]
+    },
+    {
+        "country": "botswana",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "bresil",
+        "un_tours": [
+            [
+                "Pernambucano 2 - not both !!"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "bulgarie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "burkinafaso",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "chili",
+        "un_tours": [
+            [
+                "Championship Women - not both !!"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "chinesetaipei",
+        "un_tours": []
+    },
+    {
+        "country": "chypre",
+        "un_tours": [
+            [
+                "2. Division",
+                "Cyprus 3. Division"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "colombie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "costarica",
+        "un_tours": [
+            [],
+            [
+                "Coupe du Costa Rica"
+            ]
+        ]
+    },
+    {
+        "country": "coted'ivoire",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "croatie",
+        "un_tours": [
+            [
+                "First League Women - not both !!",
+                "3. HNL"
+            ],
+            [
+                "2. HNL - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "cuba",
+        "un_tours": [
+            [
+                "Campeonato Nacional"
+            ],
+            [
+                "Championnat du Portugal"
+            ]
+        ]
+    },
+    {
+        "country": "danemark",
+        "un_tours": [
+            [
+                "Championship  Women - not both !!"
+            ],
+            [
+                "Serie Danemark - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "ecosse",
+        "un_tours": [
+            [
+                "Scotland League One",
+                "Scotland Championship"
+            ],
+            [
+                "Premiership",
+                "Scottish Championship",
+                "1re Ligue"
+            ]
+        ]
+    },
+    {
+        "country": "egypte",
+        "un_tours": [
+            [
+                "Egypt Cup",
+                "Cairo Development League"
+            ],
+            [
+                "Coupe d'Egypte"
+            ]
+        ]
+    },
+    {
+        "country": "emiratsarabesunis",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "espagne",
+        "un_tours": [
+            [
+                "Primera Federacion Women",
+                "Segunda Division B Women",
+                "Primera Division W - not both !!",
+                "Spain Youth Championship"
+            ],
+            [
+                "La Liga",
+                "Primera Federacion"
+            ]
+        ]
+    },
+    {
+        "country": "estonie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "france",
+        "un_tours": [
+            [
+                "Division 2 Women"
+            ],
+            [
+                "Ligue 1 Uber Eats® - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "georgie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "gibraltar",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "grece",
+        "un_tours": [
+            [
+                "Greece Super League U19 - not both !!",
+                "Super league Women - not both !!"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "guatemala",
+        "un_tours": [
+            [
+                "Reserve League"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "honduras",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "hongkong",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "hongrie",
+        "un_tours": [
+            [
+                "Hungary NB III - not both !!"
+            ],
+            [
+                "NB II"
+            ]
+        ]
+    },
+    {
+        "country": "inde",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "irlande",
+        "un_tours": [
+            [
+                "Amateur Cup"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "irlandedunord",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "italie",
+        "un_tours": [
+            [
+                "Serie C, Groupe B",
+                "Serie A Women",
+                "Serie B Women"
+            ],
+            [
+                "Serie A",
+                "Serie C - not both !!",
+                "Serie B (F)"
+            ]
+        ]
+    },
+    {
+        "country": "japon",
+        "un_tours": [
+            [
+                "WE League Women - not both !!"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "kenya",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "kosovo",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "koweit",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "lebanon",
+        "un_tours": []
+    },
+    {
+        "country": "lesalvador",
+        "un_tours": []
+    },
+    {
+        "country": "lettonie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "liberia",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "lituanie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "luxembourg",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "macedoinedunord",
+        "un_tours": [
+            [
+                "First League - not both !!"
+            ],
+            [
+                "2. MFL - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "malaisie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "mali",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "malte",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "maroc",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "monde",
+        "un_tours": [
+            [
+                "Matchs amicaux U20 - not both !!"
+            ],
+            [
+                "World Cup. Matchday Statistics",
+                "Match amicaux internationaux de l'U20"
+            ]
+        ]
+    },
+    {
+        "country": "montenegro",
+        "un_tours": [
+            [
+                "First League"
+            ],
+            [
+                "1. CFL"
+            ]
+        ]
+    },
+    {
+        "country": "mozambique",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "nicaragua",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "niger",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "nouvelle-zelande",
+        "un_tours": [
+            [],
+            [
+                "National League"
+            ]
+        ]
+    },
+    {
+        "country": "oman",
+        "un_tours": [
+            [],
+            [
+                "Premiere division - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "pays-bas",
+        "un_tours": [
+            [],
+            [
+                "Eredivisie - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "paysdegalles",
+        "un_tours": [
+            [
+                "Premier League Women's - not both !!"
+            ],
+            [
+                "FAW Championship - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "perou",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "pologne",
+        "un_tours": [
+            [
+                "Championship U19 - not both !!",
+                "Women's Cup"
+            ],
+            [
+                "Ekstraklasa - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "portugal",
+        "un_tours": [
+            [
+                "1st Division Women"
+            ],
+            [
+                "Campeonato Nacional - Femmes",
+                "Campeonato Nacional 2 Division - Women - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "republiquetcheque",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "roumanie",
+        "un_tours": [
+            [
+                "Liga 1. Women - not both !!"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "russie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "rwanda",
+        "un_tours": [
+            [
+                "First Division W"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "senegal",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "serbie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "slovaquie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "slovenie",
+        "un_tours": [
+            [
+                "Championship U19"
+            ],
+            [
+                "1.SNL"
+            ]
+        ]
+    },
+    {
+        "country": "suede",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "suisse",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "tanzania",
+        "un_tours": []
+    },
+    {
+        "country": "thailande",
+        "un_tours": [
+            [
+                "Division 3"
+            ],
+            [
+                "Division 1"
+            ]
+        ]
+    },
+    {
+        "country": "togo",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "turquie",
+        "un_tours": [
+            [
+                "First League. Women.",
+                "TFF 2. Lig, Barrages d'accession - not both !!"
+            ],
+            [
+                "Championnat de Turquie D2"
+            ]
+        ]
+    },
+    {
+        "country": "uganda",
+        "un_tours": []
+    },
+    {
+        "country": "ukraine",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "vietnam",
+        "un_tours": [
+            [
+                "National Cup"
+            ],
+            [
+                "Coupe du Viet Nam"
+            ]
+        ]
+    },
+    {
+        "country": "zambia",
+        "un_tours": []
+    }
+]
