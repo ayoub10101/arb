@@ -1,0 +1,319 @@
+[
+    {
+        "country": "algerie",
+        "un_tours": [
+            [
+                "championship women",
+                "championship u21"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "armenie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "australie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "azerbaidjan",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "bahrein",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "botswana",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "bresil",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "chine",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "chypre",
+        "un_tours": [
+            [
+                "2. division - not both !!"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "coted'ivoire",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "ecosse",
+        "un_tours": [
+            [
+                "challenge cup"
+            ],
+            [
+                "premiership",
+                "scottish championship",
+                "1re ligue",
+                "scottish challenge cup"
+            ]
+        ]
+    },
+    {
+        "country": "egypte",
+        "un_tours": [
+            [
+                "premier league"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "emiratsarabesunis",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "gibraltar",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "grece",
+        "un_tours": [
+            [
+                "greek cup",
+                "super league women - not both !!"
+            ],
+            [
+                "coupe de grece"
+            ]
+        ]
+    },
+    {
+        "country": "guatemala",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "hongrie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "inde",
+        "un_tours": [
+            [
+                "delhi senior division"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "indonesie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "irlande",
+        "un_tours": [
+            [
+                "wexford premier league",
+                "munster senior league"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "irlandedunord",
+        "un_tours": [
+            [],
+            [
+                "premiere  ligue de developpement"
+            ]
+        ]
+    },
+    {
+        "country": "israel",
+        "un_tours": [
+            [
+                "liga alef - south",
+                "liga alef - north",
+                "toto cup ligat al",
+                "israel liga bet",
+                "israel state cup"
+            ],
+            [
+                "ligue alef",
+                "ligue bet",
+                "coupe toto"
+            ]
+        ]
+    },
+    {
+        "country": "koweit",
+        "un_tours": [
+            [
+                "crown prince cup"
+            ],
+            [
+                "coupe du prince heritier"
+            ]
+        ]
+    },
+    {
+        "country": "lebanon",
+        "un_tours": []
+    },
+    {
+        "country": "macedoinedunord",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "malte",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "nicaragua",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "nouvelle-zelande",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "oman",
+        "un_tours": [
+            [
+                "division 1 - not both !!"
+            ],
+            []
+        ]
+    },
+    {
+        "country": "pays-bas",
+        "un_tours": [
+            [],
+            [
+                "eredivisie - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "paysdegalles",
+        "un_tours": [
+            [
+                "wales championship south",
+                "premier league, barrages ligue europa"
+            ],
+            [
+                "premier league",
+                "faw championship - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "portugal",
+        "un_tours": [
+            [],
+            [
+                "primeira liga - not both !!",
+                "u19 championship - not both !!"
+            ]
+        ]
+    },
+    {
+        "country": "roumanie",
+        "un_tours": [
+            [
+                "cup"
+            ],
+            [
+                "coupe de roumanie"
+            ]
+        ]
+    },
+    {
+        "country": "slovenie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "thailande",
+        "un_tours": [
+            [
+                "thailand division 2 - not both !!"
+            ],
+            [
+                "division 1"
+            ]
+        ]
+    },
+    {
+        "country": "turquie",
+        "un_tours": [
+            [],
+            []
+        ]
+    },
+    {
+        "country": "uruguay",
+        "un_tours": [
+            [],
+            []
+        ]
+    }
+]
